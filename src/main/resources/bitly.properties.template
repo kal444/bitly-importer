@@ -1,0 +1,4 @@
+bitly.tokenFilename = .bitlyAccessToken
+bitly.apikey = 
+bitly.apisecret = 
+bitly.callbackUrl = 
